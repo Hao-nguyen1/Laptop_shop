@@ -55,7 +55,7 @@
 								<div class="action">
 									<button class="add-to-cart btn btn-warning" type="button">
 										Giỏ hàng</button>
-
+									<button class=" product-details" type="button"></button> Chi tiết</button>
 								</div>
 							</div>
 						</div>

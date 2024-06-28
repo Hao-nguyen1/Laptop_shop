@@ -49,7 +49,30 @@
 								data: dataForDataSets,
 							}]
 						};
-
+						// var option = {
+						// 	scales : {
+						// 		yAxes : [ {
+						// 			stacked : true,
+						// 			gridLines : {
+						// 				display : true,
+						// 				color : "rgba(255,99,132,0.2)"
+						// 			}
+						// 		} ],
+						// 		xAxes : [ {
+						// 			barPercentage: 0.5,
+						// 			gridLines : {
+						// 				display : false
+						// 			}
+						// 		} ]
+						// 	},
+						// 	maintainAspectRatio: false,
+						// 	legend: {
+						//         labels: {
+						//             // This more specific font property overrides the global property
+						//             fontSize: 20
+						//         }
+						// 	}
+						// };
 						var option = {
 							scales: {
 								yAxes: [{
